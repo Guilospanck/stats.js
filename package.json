@@ -4,7 +4,8 @@
   "description": "JavaScript Performance Monitor",
   "main": "build/stats.js",
   "module": "build/stats.module.js",
-  "repository": "mrdoob/stats.js",
+  "repository": "guilospanck/stats.js",
+  "types": "types/stats.js/index.d.ts",
   "directories": {
     "example": "examples"
   },
@@ -25,9 +26,9 @@
   "author": "mrdoob",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mrdoob/stats.js/issues"
+    "url": "https://github.com/guilospanck/stats.js/issues"
   },
-  "homepage": "https://github.com/mrdoob/stats.js",
+  "homepage": "https://github.com/guilospanck/stats.js",
   "devDependencies": {
     "rollup": "^2.3.2",
     "google-closure-compiler": "20200224.0.0"
